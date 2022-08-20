@@ -1,0 +1,17 @@
+.navbar-logo img {
+  height: 150px;
+}
+.right-position-nav {
+  text-align: -webkit-right;
+}
+.right-position-nav label {
+  color: #fff;
+  font-size: 35px;
+  font-weight: 500;
+  margin-right: 12px;
+}
+.fa-bars {
+  cursor: pointer;
+  color: #fff;
+  font-size: 35px;
+}
