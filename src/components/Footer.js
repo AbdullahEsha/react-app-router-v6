@@ -23,7 +23,7 @@ const Footer = () => {
                     <Link to="/menu">Burger Menu</Link>
                   </li>
                   <li>
-                    <a href="/">Location</a>
+                    <a href="/location">Location</a>
                   </li>
                   <li>
                     <Link to="/privacy-policy">Privacy Policy</Link>
