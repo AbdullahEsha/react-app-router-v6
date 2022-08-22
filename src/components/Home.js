@@ -20,19 +20,19 @@ function Home() {
         <div className="home-content-middel">
           <div className="container">
             <div className="row">
-              <div className="col-sm-12 col-md-4">
+              <div className="col-sm-4 col-md-4" id="burger-wide-home-img">
                 <div className="home-content-img">
                   <img src={image1} alt="home_burger" />
                   <h5>THE VALENTINE</h5>
                 </div>
               </div>
-              <div className="col-sm-12 col-md-4">
+              <div className="col-sm-4 col-md-4" id="burger-wide-home-img">
                 <div className="home-content-img">
                   <img src={image2} alt="home_burger" />
                   <h5>MOUNTAIN BURGER</h5>
                 </div>
               </div>
-              <div className="col-sm-12 col-md-4">
+              <div className="col-sm-4 col-md-4" id="burger-wide-home-img">
                 <div className="home-content-img">
                   <img src={image3} alt="home_burger" />
                   <h5>THE CANADIAN</h5>

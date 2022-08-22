@@ -14,26 +14,30 @@
   cursor: pointer;
   color: #fff;
   font-size: 35px;
-  transition: 0.6s;
 }
 .fa-xmark {
   cursor: pointer;
   color: #fff;
   font-size: 35px;
-  transition: 0.6s;
 }
 .menu-ber-content {
+  list-style: none;
   position: absolute;
   right: 2%;
   padding: 15px 15px 15px 30px;
   background-color: #fff;
-  width: 25%;
+  width: 200px;
   text-align: left;
   font-size: 16px;
   font-weight: 500;
   box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.308);
-  transition: 0.6s;
+  transform: translateY(-10%);
+  -webkit-transform: translateY(-10%);
+  animation: slide-in 1s forwards;
+  -webkit-animation: slide-in 1s forwards;
+  z-index: 100;
 }
+
 .menu-ber-content a {
   color: #000;
 }
@@ -45,4 +49,25 @@
   padding-top: 10px;
   padding-bottom: 10px;
   padding-right: 5px;
+}
+@keyframes slide-in {
+  100% {
+    transform: translateY(0%);
+  }
+}
+@media only screen and (max-width: 575px) {
+  #menubar-width {
+    width: 50%;
+  }
+  .navbar-logo img {
+    height: 100px;
+  }
+  .right-position-nav label {
+    font-size: 25px;
+    margin-right: 5px;
+  }
+  .fa-bars,
+  .fa-xmark {
+    font-size: 25px;
+  }
 }

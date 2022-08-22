@@ -16,7 +16,7 @@ const Menu = () => {
           </div>
         </div>
         <div className="about-content-2">
-          <div className="container">
+          <div className="container" id="menu-container">
             <div className="menu-content-2-inside">
               <h1>BURGER MEALS (ALL MEALS COME WITH FRIES)</h1>
               <h3>UPGRADE YOUR BURGER TO A 1/2 POUND FOR $7</h3>

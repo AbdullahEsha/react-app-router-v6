@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="container">
           <div className="row" id="border-footer">
-            <div className="col-sm-12 col-md-3">
+            <div className="col-sm-4 col-md-3">
               <div className="footer-content">
                 <h5>SITEMAP</h5>
                 <br />
@@ -31,7 +31,7 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
-            <div className="col-sm-12 col-md-3">
+            <div className="col-sm-4 col-md-3">
               <div className="footer-content">
                 <h5>DINE-IN OR TAKEOUT</h5>
                 <br />
@@ -52,7 +52,7 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
-            <div className="col-sm-12 col-md-6">
+            <div className="col-sm-4 col-md-6">
               <div className="footer-img">
                 <img src={footerImg} alt="footerImg" />
               </div>

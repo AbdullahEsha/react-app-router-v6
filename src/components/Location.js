@@ -13,7 +13,7 @@ const Location = () => {
           </div>
         </div>
         <div className="about-content-2">
-          <div className="container">
+          <div className="container" id="location-width-content">
             <div className="about-content-2-inside">
               <h2>Location</h2>
               <div className="row">
@@ -46,7 +46,7 @@ const Location = () => {
                   <div className="location-detail">
                     <h5>WINTER HOURS</h5>
                     <div className="row">
-                      <div className="col-sm-6">
+                      <div className="col-sm-4">
                         Sunday <br />
                         Monday <br />
                         Tuesday <br />
@@ -55,7 +55,7 @@ const Location = () => {
                         Friday <br />
                         Saturday <br />
                       </div>
-                      <div className="col-sm-6">
+                      <div className="col-sm-8">
                         11:00AM - 09:00PM <br />
                         11:00AM - 09:00PM <br />
                         11:00AM - 09:00PM <br />

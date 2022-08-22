@@ -14,7 +14,7 @@ const About = () => {
           </div>
         </div>
         <div className="about-content-2">
-          <div className="container">
+          <div className="container" id="about-content-width">
             <div className="about-content-2-inside">
               <h2>About Us</h2>
               <div className="row">
