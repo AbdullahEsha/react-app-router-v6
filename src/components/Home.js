@@ -56,7 +56,7 @@ function Home() {
               </div>
               <div className="col-sm-12 col-md-4">
                 <div className="home-content-inside">
-                  <Link to="/menu">MORE FROM OUR MENU</Link>
+                  <Link to="/gallery">OUR GALLERY</Link>
                 </div>
               </div>
             </div>

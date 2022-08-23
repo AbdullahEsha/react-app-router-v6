@@ -5,20 +5,25 @@
   text-align: -webkit-right;
 }
 .right-position-nav label {
+  font-family: 'Ceviche One';
   color: #fff;
-  font-size: 35px;
-  font-weight: 500;
+  font-size: 50px;
+  letter-spacing: 2px;
+  font-weight: 200;
   margin-right: 12px;
+  text-shadow: 7px 7px 7px #00000057;
 }
 .fa-bars {
   cursor: pointer;
   color: #fff;
   font-size: 35px;
+  text-shadow: 7px 7px 7px #00000057;
 }
 .fa-xmark {
   cursor: pointer;
   color: #fff;
   font-size: 35px;
+  text-shadow: 7px 7px 7px #00000057;
 }
 .menu-ber-content {
   list-style: none;
@@ -63,7 +68,7 @@
     height: 100px;
   }
   .right-position-nav label {
-    font-size: 25px;
+    font-size: 35px;
     margin-right: 5px;
   }
   .fa-bars,

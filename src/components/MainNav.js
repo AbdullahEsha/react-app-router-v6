@@ -43,9 +43,9 @@ const MainNav = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link to="/menu">
+                      <Link to="/gallery">
                         <img src={menuli} alt="menuli" className="menuli" />{' '}
-                        Burger Menu
+                        Gallery
                       </Link>
                     </li>
                     <li>

@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="col-sm-4 col-md-3">
               <div className="footer-content">
                 <h5>SITEMAP</h5>
-                <br />
+                <br className="footer-hide-space" />
                 <ul>
                   <li>
                     <Link to="/home">Home</Link>
@@ -34,7 +34,7 @@ const Footer = () => {
             <div className="col-sm-4 col-md-3">
               <div className="footer-content">
                 <h5>DINE-IN OR TAKEOUT</h5>
-                <br />
+                <br className="footer-hide-space" />
                 <ul>
                   <li>+8801521431502</li>
                   <li>1301 34th ST South</li>
