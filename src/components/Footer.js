@@ -60,7 +60,10 @@ const Footer = () => {
           </div>
           <div className="footer-bottom">
             <span>
-              Produced by <Link to="/">CREATIVE ONE®</Link>
+              Produced by{' '}
+              <Link to="https://bayshorecommunication.com/">
+                Bayshore Communication
+              </Link>
             </span>
             <span className="float-right-footer">
               All contents copyright © 2022 <Link to="/">The Burger Shop</Link>
