@@ -584,11 +584,6 @@ div.gmap_canvas {
     font-size: 18px;
     line-height: 23px;
   }
-  /* .menu-content-3-image img {
-    position: relative;
-    bottom: -91px;
-    transform: scale(1.3);
-  } */
   .footer-img img {
     margin-top: 16px;
   }
@@ -681,9 +676,9 @@ div.gmap_canvas {
   .about-content-1 h1 {
     font-size: 40px;
   }
-  #about-content-width {
-    padding-right: 0;
-    padding-left: 0;
+  .menu-content-3-image {
+    border-style: hidden;
+    box-shadow: none;
   }
   .menu-content-2-inside h1 {
     font-size: 24px;
@@ -813,7 +808,11 @@ div.gmap_canvas {
     height: 350px;
   }
   div.about-content-1 {
-    top: 18%;
+    top: 30%;
+  }
+  .about-content-2 {
+    margin-top: -100px;
+    background-color: #fff;
   }
   .about-content-2-inside {
     padding: 20px 10px 20px;
@@ -847,9 +846,9 @@ div.gmap_canvas {
   .about-content-1 h1 {
     font-size: 25px;
   }
-  #about-content-width {
-    padding-right: 0;
-    padding-left: 0;
+  .menu-content-3-image {
+    border-style: hidden;
+    box-shadow: none;
   }
   .menu-content-2-inside h1 {
     font-size: 14px;
@@ -959,7 +958,7 @@ div.gmap_canvas {
     width: 33.333333%;
   }
   .home-content-img:first-child {
-    margin-left: -5px;
+    margin-left: -1px;
   }
   .home-content-img h5 {
     bottom: -14px;
@@ -995,6 +994,7 @@ div.gmap_canvas {
   }
   .about-content-2 {
     margin-top: -100px;
+    background-color: #fff;
   }
   .about-content-2-inside {
     padding: 20px 10px 20px;
@@ -1028,9 +1028,9 @@ div.gmap_canvas {
   .about-content-1 h1 {
     font-size: 25px;
   }
-  #about-content-width {
-    padding-right: 0;
-    padding-left: 0;
+  .menu-content-3-image {
+    border-style: hidden;
+    box-shadow: none;
   }
   .menu-content-2-inside h1 {
     font-size: 14px;
@@ -1054,11 +1054,6 @@ div.gmap_canvas {
   .menu-content-3 span {
     font-size: 18px;
     line-height: 23px;
-  }
-
-  #menu-container {
-    padding-right: 0;
-    padding-left: 0;
   }
   .menu-content-2-inside {
     padding: 20px 20px 20px;
