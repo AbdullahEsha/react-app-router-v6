@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,300;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&display=swap');
 * {
   font-family: 'Roboto Condensed', sans-serif;
   letter-spacing: 0.5px;
@@ -22,7 +23,7 @@
   width: 40%;
 }
 .home-content h1 {
-  font-family: 'Ceviche One', cursive;
+  font-family: 'Fondamento', cursive;
   letter-spacing: 3px;
   background: none repeat scroll 0 0 #fae34b;
   color: #493362;
@@ -41,7 +42,7 @@
   transform: scale(1.02);
 }
 .home-content h2 {
-  font-family: 'Ceviche One', cursive;
+  font-family: 'Fondamento', cursive;
   letter-spacing: 3px;
   background: none repeat scroll 0 0 #493362;
   color: #ffffff;
@@ -97,7 +98,7 @@ div.home-content {
   transform: scale(1.02);
 }
 .home-content-img h5 {
-  font-family: 'Ceviche One', cursive;
+  font-family: 'Fondamento', cursive;
   letter-spacing: 3px;
   background: none repeat scroll 0 0 #493362;
   bottom: -24px;
@@ -138,7 +139,7 @@ div.home-content {
   text-align: justify;
 }
 .home-content-inside a {
-  font-family: 'Ceviche One', cursive;
+  font-family: 'Fondamento', cursive;
   letter-spacing: 3px;
   color: #fae34b;
   background-color: #493362;

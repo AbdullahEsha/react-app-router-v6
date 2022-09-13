@@ -5,7 +5,7 @@
   text-align: -webkit-right;
 }
 .right-position-nav label {
-  font-family: 'Ceviche One';
+  font-family: 'Fondamento', cursive;
   color: #fff;
   font-size: 50px;
   letter-spacing: 2px;
@@ -31,6 +31,7 @@
   right: 2%;
   padding: 15px 15px 15px 30px;
   background-color: #fff;
+  border-radius: 6px;
   width: 200px;
   text-align: left;
   font-size: 16px;
